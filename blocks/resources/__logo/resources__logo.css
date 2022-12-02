@@ -1,0 +1,12 @@
+.resources__logo {
+  width: 270px;
+  height: 38px;
+  object-fit: contain;
+  object-position: center;
+  opacity: .9;
+	transition: 0.5s;
+}
+
+.resources__logo:hover {
+  opacity: 0.1;
+}
