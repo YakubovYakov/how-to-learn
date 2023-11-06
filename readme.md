@@ -35,7 +35,7 @@ cd <Имя-папки>
 - Склонируйте этот репозиторий:
 
 ```
-git clone [https://github.com/famovkin/how-to-learn.git](https://github.com/YakubovYakov/how-to-learn.git)
+git clone https://github.com/YakubovYakov/how-to-learn.git
 ```
 
 - Запустите файл index.html:
